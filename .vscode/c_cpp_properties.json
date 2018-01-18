@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/src",
+                "/Users/nyustetirados/Documents/Arduino/libraries/LiquidCrystal/src",
+                "/Applications/Arduino.app/Contents/Java/libraries/GSM/src"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                    "/Applications/Arduino.app/Contents/Java/libraries/LiquidCrystal/src",
+                    "/Users/nyustetirados/Documents/Arduino/libraries/LiquidCrystal/src",
+                    "/Applications/Arduino.app/Contents/Java/libraries/GSM/src"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ]
+        }
+    ],
+    "version": 3
+}

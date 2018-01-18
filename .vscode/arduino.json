@@ -1,0 +1,7 @@
+{
+    "port": "/dev/cu.usbmodem1441",
+    "arduino.path": "/Applications/Arduino.app",
+    "arduino.enableUSBDetection": true,
+    "board": "arduino:avr:uno",
+    "sketch": "m_thermostat/m_thermostat.ino"
+}
